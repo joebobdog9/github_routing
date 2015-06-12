@@ -84,7 +84,34 @@
 
 img {
     max-width: 100%;
+    width: 42px;
+    height: 42px;
+    margin-left: 10%;
 }
 /**
  * YOUR CODE HERE
  */
+
+.profile {
+    font-family: sans-serif;
+    font-size: .75rem;
+    float: none;
+    height: 100%;
+    max-width:33%;
+    
+}
+
+.repos {
+    color: #0088AA; 
+    float: right;
+    width: 67%;
+    height: 100%;
+    vertical-align: top;
+}
+
+a {
+    color: #0088AA;
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 1rem;
+}
